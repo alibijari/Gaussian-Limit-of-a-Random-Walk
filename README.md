@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-This project provides a modern, well-documented Python code to **simulate the 1D random walk (binomial walk)** and demonstrates the emergence of the **Central Limit Theorem** (CLT) in statistical physics. It includes interactive visualizations and a comprehensive LaTeX lesson, making it ideal for students and educators in computational or statistical physics.
+This project provides a modern, well-documented Python code to **simulate the 1D random walk (binomial walk)** and demonstrates the emergence of the **Central Limit Theorem** (CLT) in statistical physics. It includes interactive visualizations and a comprehensive lesson, making it ideal for students in computational or statistical physics.
 
 ---
 
@@ -13,8 +13,8 @@ This project provides a modern, well-documented Python code to **simulate the 1D
 - **Simulate**: Generates both a single random walk path and a large ensemble of independent walks.
 - **Visualize**: Plots the random walk trajectory, histogram of local time (position visits), and the final position distribution for many walkers.
 - **Compare**: Overlays empirical results with the theoretical Gaussian distribution predicted by the CLT.
-- **Document**: Includes a detailed, LaTeX-friendly lesson explaining the mathematical model, code logic, and physical significance.
-- **Educational**: Perfect for labs, classroom demonstrations, or self-study in physics, math, or data science.
+- **Document**: Includes a detailed, lesson explaining the mathematical model, code logic, and physical significance.
+- **Educational**: Perfect for classroom demonstrations, or self-study in physics, math, or data science.
 
 ---
 
